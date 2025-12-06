@@ -8,7 +8,7 @@ This bug breaks the HTML output structure and makes customizable `<select>` elem
 
 ## Example Code 
 
-Example code used in this repository is based on [The customizable select](https://utilitybend.com/blog/ the-customizable-select-part-one-history-trickery-and-styling-the-select-with-css) by Brecht De Ruyte
+Example code used in this repository is based on [The customizable select](https://utilitybend.com/blog/the-customizable-select-part-one-history-trickery-and-styling-the-select-with-css) by Brecht De Ruyte
 
 ## Bug Impact
 
