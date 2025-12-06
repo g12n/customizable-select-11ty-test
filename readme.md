@@ -4,7 +4,11 @@
 
 The Eleventy [Bundle Plugin](https://www.11ty.dev/docs/plugins/bundle/) breaks HTML structure by prematurely closing `<select>` elements, even when the plugin is enabled but not actively used in templates.
 
-**Severity:** High - This bug breaks the HTML output structure and makes customizable `<select>` elements non-functional.
+This bug breaks the HTML output structure and makes customizable `<select>` elements non-functional.
+
+## Example Code 
+
+Example code used in this repository is based on [The customizable select](https://utilitybend.com/blog/ the-customizable-select-part-one-history-trickery-and-styling-the-select-with-css) by Brecht De Ruyte
 
 ## Bug Impact
 
