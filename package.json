@@ -1,0 +1,21 @@
+{
+  "name": "customizable-select-11ty-test",
+  "version": "1.0.0",
+  "description": "Testing customizable select in 11ty templates",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "build:with-bundle": "eleventy --config=.eleventy.with-bundle.js",
+    "build:without-bundle": "eleventy --config=.eleventy.without-bundle.js",
+    "build:both": "npm run build:with-bundle && npm run build:without-bundle"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy-plugin-webc": "^0.11.2",
+    "markdown-it": "^14.1.0",
+    "markdown-it-attrs": "^4.3.1"
+  }
+}

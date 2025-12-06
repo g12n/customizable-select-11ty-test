@@ -1,0 +1,19 @@
+# Markdown Template
+
+<select>
+  <button>
+    <selectedcontent></selectedcontent>
+  </button>
+  <option value="pokeball">
+    <img src="https://assets.codepen.io/159218/pokeball.svg" alt="" />
+    Pokeball
+  </option>
+  <option value="greatball">
+    <img src="https://assets.codepen.io/159218/great-ball.svg" alt="" />
+    Great ball
+  </option>
+  <option value="ultraball">
+    <img src="https://assets.codepen.io/159218/ultra-ball.svg" alt="" />
+    Ultra ball
+  </option>
+</select>
